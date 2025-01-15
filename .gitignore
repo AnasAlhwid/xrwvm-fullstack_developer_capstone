@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# SuperUser info
+superUser.txt
+
+# Development Commands
+devCommand.txt
